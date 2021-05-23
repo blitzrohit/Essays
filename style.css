@@ -1,7 +1,7 @@
 
 body {
   font-family: Helvetica;
-  font-size: 15px;
+  font-size: 17px;
 }
 
 
@@ -39,7 +39,7 @@ a:link {
 #content {
   margin-top: 120px;
   float: left;
-  width: 500px;
+  width: 700px;
 }
 
 #content p {
