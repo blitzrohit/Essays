@@ -42,6 +42,12 @@ a:link {
   width: 600px;
 }
 
+@media only screen and (max-width: 600px)  {
+ #content {
+	 width: 100%;
+	}
+}
+
 #content p {
   color: #333;
   line-height: 22px;
