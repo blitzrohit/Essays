@@ -49,6 +49,9 @@ a:link {
 	 font-size: 13px;
 	}
 	body { overflow-x: hidden; /* Hide scrollbars */ }
+	#content p {
+		line-height: 19px;
+	}
 }
 
 #content p {
