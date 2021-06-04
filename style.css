@@ -46,6 +46,7 @@ a:link {
  #content {
 	 width: 100%;
 	}
+	body { overflow: hidden; /* Hide scrollbars */ }
 }
 
 #content p {
