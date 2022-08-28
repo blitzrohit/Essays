@@ -116,7 +116,7 @@ a:active {
 }
 
 
-#content p, li {
+#content p, li, blockquote {
   color: #333;
   line-height: 22px;
   font-family: helvetica;
